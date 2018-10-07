@@ -1,0 +1,21 @@
+.company-name {
+  display: inline-block;
+  z-index: 20;
+  font-size: 250%;
+  vertical-align: -webkit-baseline-middle;
+  margin-top: 10px;
+}
+
+.company-name .c1 {
+  color: #1bbd36;
+}
+
+.company-name .c2 {
+  color: #1bbd36;
+}
+
+.company-logo {
+  margin-top: -8px;
+  width: 56px;
+  margin-right: 5px;
+}
